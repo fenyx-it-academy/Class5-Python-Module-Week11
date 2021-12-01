@@ -1,0 +1,4 @@
+sql basic certificate	
+https://www.hackerrank.com/certificates/fc12c6e3ef61
+sql intermediate certificate
+https://www.hackerrank.com/certificates/3cce43a99eb1
